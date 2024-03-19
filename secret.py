@@ -1,0 +1,13 @@
+ssid = 'AKMASTER'
+password = 'JesusIsLord'
+#ssid = 'unifi60Ho_2.4Ghz'
+#password = '1mantis1'
+#ssid = 'Fung_wireles-2.4GHz@unifi'
+#password = '245945syt'
+duckdomains = 'claremont'
+ducktoken = '26f309a5-7520-4110-a7d5-4733ce84cff1'
+passcode = 'PASS=abc'
+doorpath = '/garage'
+siripath = '/siri'        
+statuspath = '/status'
+doorsensor = 0
