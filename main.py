@@ -73,7 +73,7 @@ def control_door(cmd):
 async def connect_to_wifi():
     wlan.active(True)
    # wlan.config(pm = 0xa11140)  # Disable powersave mode
-    wlan.ifconfig(('192.168.100.112','255.255.255.0','192.168.100.1','192.168.1.1'))
+    wlan.ifconfig(('192.168.100.113','255.255.255.0','192.168.100.1','192.168.1.1'))
     
     wlan.connect(ssid, password)
 
